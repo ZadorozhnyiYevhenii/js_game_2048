@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# JavaScript 2048 browser game
+
+1. [DEMO LINK](https://ZadorozhnyiYevhenii.github.io/js_game_2048/)
+2. The main reason was to practice using JS to communicate with browser.
+3. Technologies: Javascript, Scss, BEM, HTMl.
+4. To install the repo use npm install,
+   To run it use npm start 
